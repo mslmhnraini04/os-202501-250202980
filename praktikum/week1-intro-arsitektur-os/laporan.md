@@ -1,13 +1,13 @@
 
 # Laporan Praktikum Minggu [X]
-Topik: [Tuliskan judul topik, misalnya "Arsitektur Sistem Operasi dan Kernel"]
+Topik: Arsitektur Sistem Operasi dan Kernel
 
 ---
 
 ## Identitas
-- **Nama**  : [Nama Mahasiswa]  
-- **NIM**   : [NIM Mahasiswa]  
-- **Kelas** : [Kelas]
+- **Nama**  : Muslimah Nuraini
+- **NIM**   : 250202980
+- **Kelas** : 1IKRB
 
 ---
 
@@ -34,16 +34,17 @@ Tuliskan ringkasan teori (3–5 poin) yang mendasari percobaan.
 ## Kode / Perintah
 Tuliskan potongan kode atau perintah utama:
 ```bash
-uname -a
-lsmod | head
-dmesg | head
+uname -a = muslimahnuraini2007@cloudshell:~$ uname -a
+lsmod | head = muslimahnuraini2007@cloudshell:~$ lsmod | head
+dmesg | head = muslimahnuraini2007@cloudshell:~$ sudo dmesg | head
 ```
 
 ---
 
 ## Hasil Eksekusi
 Sertakan screenshot hasil percobaan atau diagram:
-![Screenshot hasil](screenshots/example.png)
+![Screenshot hasil](DiagramArsitektur.drawio.png)
+
 
 ---
 
