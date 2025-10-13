@@ -43,8 +43,7 @@ dmesg | head = muslimahnuraini2007@cloudshell:~$ sudo dmesg | head
 
 ## Hasil Eksekusi
 Sertakan screenshot hasil percobaan atau diagram:
-![Screenshot hasil] Diagram Arsitektur.drawio.png
-![Code] Eksperimen Dasar.png
+![Screenshot hasil] Diagram Arsitektur.drawio.png / Eksperimen Dasar.png
 
 
 ---
