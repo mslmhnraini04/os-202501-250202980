@@ -44,7 +44,8 @@ dmesg | head = muslimahnuraini2007@cloudshell:~$ sudo dmesg | head
 ## Hasil Eksekusi
 Sertakan screenshot hasil percobaan atau diagram:
 ![Screenshot hasil] 
-'praktikum/week1-intro-arsitektur-os/code/Eksperimen Dasar.png' / 'praktikum/week1-intro-arsitektur-os/screenshots/Diagram Arsitektur.drawio.png'
+'praktikum/week1-intro-arsitektur-os/code/Eksperimen Dasar.png'. 
+'praktikum/week1-intro-arsitektur-os/screenshots/Diagram Arsitektur.drawio.png'.
 
 
 ---
