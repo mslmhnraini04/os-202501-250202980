@@ -72,9 +72,12 @@ Sertakan screenshot hasil percobaan atau diagram:
 ---
 
 ## Analisis
-- Jelaskan makna hasil percobaan.  
-- Hubungkan hasil dengan teori (fungsi kernel, system call, arsitektur OS).  
-- Apa perbedaan hasil di lingkungan OS berbeda (Linux vs Windows)?  
+- Makna hasil percobaan
+Percobaan menunjukkan bahwa kernel berperan penting dalam mengatur komunikasi antara perangkat keras dan perangkat lunak melalui system call.
+- Hubungkan hasil dengan teori
+Hasil ini sesuai dengan teori bahwa kernel adalah inti sistem operasi yang mengatur proses dan sumber daya, sedangkan system call jadi penghubung antara user dan kernel sesuai arsitektur OS-nya.
+-Perbedaan Linux vs Windows
+Di Linux prosesnya lebih terbuka dan bisa dipantau melalui terminal, sedangkan di Windows lebih tertutup dan berbasis GUI. Keduanya sama-sama memakai system call tapi cara kerjanya berbeda sesuai desain sistemnya.  
 
 ---
 
