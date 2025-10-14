@@ -105,8 +105,14 @@ Tuliskan 2–3 poin kesimpulan dari praktikum ini.
 
 ## Refleksi Diri
 Tuliskan secara singkat:
-- Apa bagian yang paling menantang minggu ini?  
-- Bagaimana cara Anda mengatasinya?  
+- Apa bagian yang paling menantang minggu ini?
+  1. Mengunduh aplikasi gitHub, karena laptop kurang mendukung
+  2. Membuat diagram arsitektur, karena tidak dapat di screenshot
+  3. Commit & push
+- Bagaimana cara Anda mengatasinya?
+  1. uprade laptop ke spek yang lebih mendukung
+  2. dengan di download kemudian di foto menggunakan handphone sebagai buktinya
+  3. dikerjakan secara bertahap dengan jangka waktu beberapa hari 
 
 ---
 
