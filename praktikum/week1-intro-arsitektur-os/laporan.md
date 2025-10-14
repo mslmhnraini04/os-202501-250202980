@@ -82,8 +82,9 @@ Di Linux prosesnya lebih terbuka dan bisa dipantau melalui terminal, sedangkan d
 ---
 
 ## Kesimpulan
-Tuliskan 2–3 poin kesimpulan dari praktikum ini.
-
+1. Kernel adalah inti dari sistem operasi yang mengatur seluruh aktivitas komputer, termasuk manajemen memori, proses, dan perangkat keras.
+2. Arsitektur sistem operasi menentukan bagaimana kernel dan komponen lain saling berinteraksi, seperti pada model monolithic, microkernel, dan layered architecture.
+3. Pemilihan arsitektur kernel sangat berpengaruh terhadap kinerja, keamanan, dan kemudahan pengembangan sistem. Misalnya, monolithic kernel cenderung lebih cepat tapi sulit diperbarui, sedangkan microkernel lebih aman dan mudah dikembangkan karena setiap komponennya terpisah.
 ---
 
 ## Quiz
