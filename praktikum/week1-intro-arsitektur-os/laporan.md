@@ -119,16 +119,24 @@ Ringkasan (±500 kata).
 3. Dalam konteks sistem modern, microkernel sering dianggap sebagai pilihan yang paling relevan. Desain modularnya mendukung pengembangan dan pemeliharaan 
 ## Quiz
 1. Sebutkan tiga fungsi utama sistem operasi
+   
    **Jawaban:**
+   
    1. Mengatur proses agar semua program dapat berjalan barsama tanpa bertabrakan.
    2. Mengatur memori supaya setiap aplikasi memiliki ruang tersendiri.
    3. Mengatur perangkat keras seperti keyboard, printer, dan lain-lain agar bisa menyambung ke sistem.
+      
 2. Jelaskan perbedaan antara kernel mode dan user mode.
+   
    **Jawaban:**
+   
    Kernel mode: Sistem punya akses penuh ke semua bagian komputer, kayak otak utama yang ngatur semuanya.
    User mode: Mode buat aplikasi biasa, aksesnya terbatas supaya kalau ada error, gak bikin seluruh sistem rusak.
-4. Sebutkan contoh OS dengan arsitektur monolithic dan microkernel.
+   
+3. Sebutkan contoh OS dengan arsitektur monolithic dan microkernel.
+   
    **Jawaban:**
+   
    Monolithic kernel: Linux, MS-DOS, UNIX tradisional.
    Microkernel: macOS (berbasis XNU, kombinasi dengan microkernel Mach), QNX, dan Minix.
 
