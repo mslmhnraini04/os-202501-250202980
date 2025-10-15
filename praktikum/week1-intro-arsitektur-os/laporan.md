@@ -73,7 +73,7 @@ Sertakan screenshot hasil percobaan atau diagram:
 
 ## Analisis
 - Makna hasil percobaan
-Percobaan menunjukkan bahwa kernel berperan penting dalam mengatur komunikasi antara perangkat keras dan perangkat lunak melalui system call.
+Percobaan ini menunjukkan bahwa kernel berperan penting dalam mengatur komunikasi antara perangkat keras dan perangkat lunak melalui system call.
 - Hubungkan hasil dengan teori
 Hasil ini sesuai dengan teori bahwa kernel adalah inti sistem operasi yang mengatur proses dan sumber daya, sedangkan system call jadi penghubung antara user dan kernel sesuai arsitektur OS-nya.
 -Perbedaan Linux vs Windows
